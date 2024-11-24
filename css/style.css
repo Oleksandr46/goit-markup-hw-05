@@ -457,15 +457,12 @@ img {
   margin-bottom: 16px;
 }
 
-.container-subscribe {
-  display: flex;
-}
 .subscribe-input {
   border: 1px solid #fff;
   border-radius: 4px;
   width: 264px;
   height: 40px;
-  margin-right: 24px;
+
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #2e2f42;
 
@@ -508,7 +505,10 @@ img {
   align-items: center;
   fill: #fff;
 }
-
+.subscribe-form {
+  display: flex;
+  gap: 24px;
+}
 /* #endregion */
 
 /* #region Modal */
