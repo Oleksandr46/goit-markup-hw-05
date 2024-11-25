@@ -481,7 +481,6 @@ img {
   align-items: center;
   justify-content: center;
   flex-direction: row;
-  gap: 16px;
   background: #4d5ae5;
 
   border-radius: 4px;
